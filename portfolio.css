@@ -1,0 +1,58 @@
+body{margin: 0%;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+     background-color:white;
+     font-size: large;
+     font-style: italic; 
+}
+h1{margin-left: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+     background-color:grey;
+     font-style: oblique;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{margin-left: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+     color: blue;
+     font-style: oblique;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 28;
+
+}
+
+form{margin-left: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+     color: blue;
+     font-style:ue obliq;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li{color: brown;
+    font-family:algerian;
+     font-style: var(algerian);
+}
+img{width: 500px; height: 400px; 
+}     
+img{background-image: image(url(../../../Pictures/1000000426[1].jpeg));
+
+}
+#about{background-color: blue;
+}
+#skills{background-color: blueviolet;}
+nav ul li{display: inline;}
+nav a{color: blueviolet;text-decoration: none;}
+#projects{padding: 20px;background-color: aquamarine;}
+
+.project{margin-bottom: 20px;padding: 15px;border: 1px solid blue;border-radius: 1px;background-color: black;}
+.project h1,h2,h3,h4{margin-top: 0;}
+.project img{max-width: 500px;height: auto;width: 100%;border: 2px;border-radius: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
